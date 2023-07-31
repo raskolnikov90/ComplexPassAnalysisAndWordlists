@@ -23,6 +23,7 @@ https://github.com/raskolnikov90/ComplexPassAnalysisAndWordlists/blob/main/Compl
 Next, I wanted to do more analysis on the found complex passwords and made 3 scripts to do so, one would look at the most common words and combinations of letters used in the passwords, another would look at the most common suffixes of the passwords meaning anything added at the end of a password (in “Password123”, “123” would be the suffix) and another would look at the most common prefixes meaning anything added at the beginning of a password (in “!!Password”, “!!” would be the prefix). These scripts would rank them in a top 500.
 
 We get pretty interesting yet somewhat predictable results in the top words. In top ranks we have variations of @hotmail and @yahoo meaning some people use emails frequently as passwords, the rest of the most common passwords have variations of “12345”, names, last names, the word “password”, “iloveyou” and variations of “x100pre” (forever in Spanish)
+
 With their frequency score on the left:
 
 https://github.com/raskolnikov90/ComplexPassAnalysisAndWordlists/blob/main/tops/wordscores.txt
