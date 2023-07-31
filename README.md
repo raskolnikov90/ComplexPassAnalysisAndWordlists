@@ -8,6 +8,7 @@ I define complex password as having at least three of the following:
 
 1-The Collected Complex Passwords Wordlist
 My first objective was to make a script to go through some of the well known data breaches and wordlists, collect complex passwords using the criteria mentioned and put them all in a single wordlist to be shared and used for analysis, while also making sure there weren’t duplicates. The following wordlists were used: rockyou.txt, elitehacker.txt, honeynet.txt, Ashley-Madison.txt, Lizard-Squad.txt, phpbb.txt, 000webhost.txt and NordVPN.txt
+
 The script found 870 661 complex passwords and saved them all in a txt file called ComplexPasswords.txt which is available in the following link:
 https://github.com/raskolnikov90/ComplexPassAnalysisAndWordlists/blob/main/ComplexPasswords.txt
 
