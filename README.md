@@ -7,6 +7,7 @@ I define complex password as having at least three of the following:
 -Contains special characters
 
 1-The Collected Complex Passwords Wordlist
+
 My first objective was to make a script to go through some of the well known data breaches and wordlists, collect complex passwords using the criteria mentioned and put them all in a single wordlist to be shared and used for analysis, while also making sure there weren’t duplicates. The following wordlists were used: rockyou.txt, elitehacker.txt, honeynet.txt, Ashley-Madison.txt, Lizard-Squad.txt, phpbb.txt, 000webhost.txt and NordVPN.txt
 
 The script found 870 661 complex passwords and saved them all in a txt file called ComplexPasswords.txt which is available in the following link:
@@ -14,6 +15,7 @@ The script found 870 661 complex passwords and saved them all in a txt file call
 https://github.com/raskolnikov90/ComplexPassAnalysisAndWordlists/blob/main/ComplexPasswords.txt
 
 2-Analysis of Complex Passwords Wordlist
+
 Next, I wanted to do more analysis on the found complex passwords and made 3 scripts to do so, one would look at the most common words and combinations of letters used in the passwords, another would look at the most common suffixes of the passwords meaning anything added at the end of a password (in “Password123”, “123” would be the suffix) and another would look at the most common prefixes meaning anything added at the beginning of a password (in “!!Password”, “!!” would be the prefix). These scripts would rank them in a top 500.
 
 We get pretty interesting yet somewhat predictable results in the top words. In top ranks we have variations of @hotmail and @yahoo meaning some people use emails frequently as passwords, the rest of the most common passwords have variations of “12345”, names, last names, the word “password”, “iloveyou” and variations of “x100pre” (forever in Spanish)
