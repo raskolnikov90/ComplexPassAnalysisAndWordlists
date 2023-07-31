@@ -1,9 +1,13 @@
 # Analysis and Creation of Wordlists with Complex Passwords for Password Cracking
 There is a lot of research and statistics on the most common passwords which tend to be the least safe, like “12345”, the word “password” itself and others. Many famous wordlists coming from data breaches or cybersecurity research contain such passwords, however the focus of my research is to look more into complex passwords while ignoring the simpler common insecure passwords, find what common features more complex passwords have and create new wordlists to crack complex passwords.
 I define complex password as having at least three of the following:
+
 -Contains 8 letters or more
+
 -Contains numbers
+
 -Contains uppercase letters
+
 -Contains special characters
 
 1-The Collected Complex Passwords Wordlist
