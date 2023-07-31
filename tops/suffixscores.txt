@@ -1,3 +1,4 @@
+#left is score right is suffix
 115460 1
 
 74951 3
