@@ -1,3 +1,4 @@
+#left is score right is prefix
 176585 a
 149954 A
 126756 e
