@@ -1,3 +1,4 @@
+#left is score right is word
 6362 hotmai
 6331 hotmail
 6311 @hotma
