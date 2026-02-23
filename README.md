@@ -54,12 +54,4 @@ https://github.com/raskolnikov90/ComplexPassAnalysisAndWordlists/blob/main/tops/
 I decided to use the top suffixes and top words to create new wordlists containing all possible combinations between the words and the suffixes using hashcat combinations attack mode. This created a file with 250.000 possible passwords named Motoko.txt this file is available in the following link:
 
 https://github.com/raskolnikov90/ComplexPassAnalysisAndWordlists/blob/main/Motoko.txt
-
-But in order to get even more variations of the newly created passwords I used hashcat again and applied the Best64 rule, this applies some of the most popular rules to generate more passwords. This created a file with 19.250.000 possible passwords named MotokoBest64.txt this file is available in the following link:
-
-https://drive.google.com/file/d/1IcevGMAIrcmDfR-_UikFY7Eeb6UX8VzW/view?usp=drive_link
-
-Finally, the last wordlist created combines the initial ComplexPasswords.txt and MotokoBest64.txt file into a single file called Kusanagi.txt this file is available in the following link:
-
-https://drive.google.com/file/d/1Wk0dJsI2xFxShZ7MShxVmeQf_CjVivdz/view?usp=drive_link
  
